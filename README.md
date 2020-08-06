@@ -8,6 +8,8 @@ There are many ID3 tag editors available online (such as [mp3tag](https://www.mp
 ## Requirements
 [Go](https://golang.org/)
 
+[Cobra](https://github.com/spf13/cobra)
+
 [youtube-dl](https://youtube-dl.org/)
 
 [ffmpeg](https://ffmpeg.org/)
