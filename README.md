@@ -3,7 +3,7 @@ Go wrapper CLI application for youtube-dl.
 
 Since YouTube videos lack reliable metadata accessibility, the ID3 tags of downloads may be wrong or malformed.
 
-There are many ID3 tag editors available online (such as [mp3tag](https://www.mp3tag.de/en/)).
+There are many ID3 tag editors available online (such as [mp3tag](https://www.mp3tag.de/en/)) which can fix these issues.
 
 ## Requirements
 [Go](https://golang.org/)
