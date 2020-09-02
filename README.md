@@ -18,7 +18,7 @@ Add the youtube-dl executable to your PATH.
 
 ## Installation
 
-clone then `go install cerulean`.
+Clone repo then `go install cerulean`
 
 File downloads are saved in the current directory.
 
@@ -27,3 +27,5 @@ File downloads are saved in the current directory.
 `cerulean [URL]`
 
 The URL to add is the character sequence after ?v=
+
+Works for playlists too. Use the playlist URL instead (after &list=) for this.
