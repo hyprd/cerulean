@@ -18,9 +18,9 @@ Add the youtube-dl executable to your PATH.
 
 ## Installation
 
-`go install cerulean` and fire away.
+clone then `go install cerulean`.
 
-File downloads are saved in the repository directory.
+File downloads are saved in the current directory.
 
 ## Usage
 
